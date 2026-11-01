@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selina Varshney</h1>
-<h3 align="center">A Computer Engineering student, discovering the world of tech.</h3>
+<h3 align="center">A Software Engineer, discovering the world of tech.</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
 
